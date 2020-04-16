@@ -1,6 +1,6 @@
-# com
+# World-Clock-Application
 
-A new Flutter application.
+A basic Flutter application.
 
 ## Getting Started
 
